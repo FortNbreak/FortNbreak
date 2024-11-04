@@ -4,8 +4,8 @@
 </h1>
 
 <div align="center">
-    <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=FortNbreak&theme=tokyonight&hide_border=true" alt="streak stats" />
-    <img width="365" src="https://github-readme-stats.vercel.app/api?username=FortNbreak&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="readme stats" />
+    <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=FortNbreak&theme=monokai&hide_border=true" alt="streak stats" />
+    <img width="365" src="https://github-readme-stats.vercel.app/api?username=FortNbreak&theme=monokai&show_icons=true&hide_border=true&count_private=true" alt="readme stats" />
     <br/>
-    <img width="375" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FortNbreak&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="top langs" />
+    <img width="375" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FortNbreak&theme=monokai&show_icons=true&hide_border=true&layout=compact" alt="top langs" />
 </div>
