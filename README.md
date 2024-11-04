@@ -7,5 +7,5 @@
     <img width="390" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=FortNbreak&theme=tokyonight&hide_border=true" alt="streak stats" />
     <img width="365" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FortNbreak&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="readme stats" />
     <br/>
-    <img width="325" src="https://github-readme-stats.vercel.app/api?username=FortNbreak&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="top langs" />
+    <img width="325" height="200" src="https://github-readme-stats.vercel.app/api?username=FortNbreak&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="top langs" />
 </div>
